@@ -1,0 +1,250 @@
+#EXTM3U name="IPTV Gabungan Auto-Update"
+#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="01. Internet Radio",i-Radio Banjarmasin
+https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8
+
+
+
+# --- KATEGORI: CCTV BANJARBARU & JOGJA ---
+#EXTINF:-1 tvg-logo="https://cctv.banjarbarukota.go.id/images/play.png" group-title="02. CCTV",A2 ULIN SIMPANG 4
+https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8
+#EXTINF:-1 tvg-logo="https://cctv.banjarbarukota.go.id/images/play.png" group-title="02. CCTV",A3 PTZ SIMPANG 4
+https://stream-backup.banjarbarukota.go.id/a3_ptz_simpang4/index.m3u8
+#EXTINF:-1 tvg-logo="https://cctv.banjarbarukota.go.id/images/play.png" group-title="02. CCTV",B2 CEMPAKA SIMPANG 4
+https://stream-backup.banjarbarukota.go.id/b2_arah_cempaka/index.m3u8
+#EXTINF:-1 tvg-logo="https://cctv.banjarbarukota.go.id/images/play.png" group-title="02. CCTV",C1 POLISI SIMPANG 4
+https://stream-backup.banjarbarukota.go.id/c1_simpang4_arah_cempaka/index.m3u8
+#EXTINF:-1 tvg-logo="https://cctv.banjarbarukota.go.id/images/play.png" group-title="02. CCTV",C2 BANJARMASIN SIMPANG 4
+https://stream-backup.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8
+#EXTINF:-1 tvg-logo="https://cctv.banjarbarukota.go.id/images/play.png" group-title="02. CCTV",C3 PTZ SIMPANG 4
+https://stream-backup.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/index.m3u8
+#EXTINF:-1 tvg-logo="https://cctv.banjarbarukota.go.id/images/play.png" group-title="02. CCTV",D2 MARTAPURA SIMPANG 4
+https://stream-backup.banjarbarukota.go.id/d2_arah_martapura/index.m3u8
+#EXTINF:-1 tvg-logo="https://cctv.banjarbarukota.go.id/images/play.png" group-title="02. CCTV",BUNDARAN AMACO
+https://stream-backup.banjarbarukota.go.id/bundaran_amaco/index.m3u8
+#EXTINF:-1 tvg-logo="https://cctv.banjarbarukota.go.id/images/play.png" group-title="02. CCTV",QMALL ARAH SIMPANG EMPAT
+https://stream-backup.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="02. CCTV",Malioboro 1 Selatan Teteg - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="02. CCTV",Malioboro 6 Mall Utara - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="02. CCTV",Malioboro 30 Pasar Beringharjo - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="02. CCTV",Malioboro 24 Simpang Reksobayan - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Jembatan SakaHarang
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/c4f60c92-f306-49ef-aa68-5fd90e64c313.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Taman Jahri Saleh Pintu Masuk
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/fa144f88-9907-45ee-a8e9-b5a71bea9451.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Taman Jahri Saleh View 1
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/55b75a68-1804-47c4-b20b-698de6f079ad.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Taman Jahri Saleh View 2
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/d194d467-c615-4e10-a826-96b2a4f67587.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Kelayan - Rusunawa Persimpangan
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/d8d71723-2ec7-4080-bf51-88e0db9d0a00.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Halaman Jembatan Pulau Bromo
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/ec158432-3fac-4468-8a60-b07d63016e67.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Jembatan Pulau Bromo Turunan
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/96faa5fe-2f32-4749-a233-7a8b5844ff45.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Samping Tugu 0km
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/63d1a727-1577-406a-abc3-2c14d71d824e.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Siring 0km Panggung
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/deeabb7f-c5fa-4fd2-80cd-9693ca256280.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Siring 0km 2
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/10969b59-7319-480b-8d65-d24d73c21da5.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Siring 0km
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/6bc9a5b5-f084-4705-9422-0d14e37e9f9a.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Pintu Masuk Menara Pandang
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/55653afe-5b47-445a-a1a7-f1fb88da5519.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Siring Pos Dermaga
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/ade8407f-4d92-429c-bf89-2c87e1938c6e.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Siring Dermaga
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/180f6b55-aa16-41f1-b1a2-28bf336ddfb4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Taman Kelayan Basket
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/9362ff9e-0406-4dae-b07d-80c198776604.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Taman Kelayan Utama
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/5232cba8-61c7-45e0-a810-157d31a3dadf.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Taman Kelayan Sungai
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/8e75f369-2431-46ea-a114-eb8f110ab593.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",TPS Kuripan
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/e36563ff-4f2d-406e-9239-0ade6a5b3891.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",TPS Kuripan kanan
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/4a5276fc-42b9-4201-9609-d6705b06c553.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",TPS Kuripan kiri
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/92983779-1433-40c7-bec8-d03e21e6df32.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Jembatan Patih Simpang 3
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/6612183c-49ad-4c2d-818c-955fcb3a3678.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Jembatan Patih Sisi Kanan
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/a95831df-12f4-443a-8e19-40c38c84c79c.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Jembatan Patih Turunan kanan
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/9c9ff1cb-0ce6-4429-8fd8-3b8016cdbb4f.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Kamboja Taman View 2
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/9e559a4b-6704-4f5a-b234-8e144cc51b14.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.banjarmasinkota.go.id/img/live.png",Kamboja Taman View 1
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/89775be6-43b3-4978-8a1d-fb83ae611d15.m3u8
+
+
+
+
+
+################ATCS Dinas Perhubungan Kota Banjarmasin#################
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_mentari.webp",Simpang Mentari
+https://atcs.banjarmasinkota.go.id/stream/simpang_mentari/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/jalan_lambung_mangkurat_bank_bi.webp",Jalan Lambung Mangkurat (Depan Bank Indonesia)
+https://atcs.banjarmasinkota.go.id/stream/jalan_lambung_mangkurat_bank_bi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/jembatan_alalak_arah_luar_kota.webp",Jembatan Alalak Arah Luar Kota
+https://atcs.banjarmasinkota.go.id/stream/jembatan_alalak_arah_luar_kota/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/jalan_gubernur_soebardjo_jembatan_tatah_bangkal_keluar_kota.webp",Jalan Gubernur Soebardjo Jembatan Tatah Bangkal Keluar Kota
+https://atcs.banjarmasinkota.go.id/stream/jalan_gubernur_soebardjo_jembatan_tatah_bangkal_keluar_kota/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/jembatan_mesjid_jami_arah_mesjid.webp",Jembatan Mesjid Jami
+https://atcs.banjarmasinkota.go.id/stream/jembatan_mesjid_jami_arah_mesjid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_a_yani_gatot_fly_over_km_3.webp",Simpang A Yani Gatot / Fly Over KM 3
+https://atcs.banjarmasinkota.go.id/stream/simpang_a_yani_gatot_fly_over_km_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/u_turn_jalan_a_yani_km_5.webp",U-Turn Jalan A Yani KM 5
+https://atcs.banjarmasinkota.go.id/stream/u_turn_jalan_a_yani_km_5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/jalan_pangeran_samudera_antasari.webp",Jembatan Pangeran Samudera (Antasari)
+https://atcs.banjarmasinkota.go.id/stream/jalan_pangeran_samudera_antasari/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_3_piston_jembatan_merdeka.webp",Simpang 3 Piston Jembatan Merdeka
+https://atcs.banjarmasinkota.go.id/stream/simpang_3_piston_jembatan_merdeka/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/u_turn_a_yani_km_2.webp",U-Turn A Yani KM 2
+https://atcs.banjarmasinkota.go.id/stream/u_turn_a_yani_km_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_hasan_basri_cemara.webp",Simpang Hasan Basri - Cemara
+https://atcs.banjarmasinkota.go.id/stream/simpang_hasan_basri_cemara/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_a_yani_pramuka_km_6.webp",Simpang A Yani - Pramuka KM 6
+https://atcs.banjarmasinkota.go.id/stream/simpang_a_yani_pramuka_km_6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/jalan_a_yani_km_3.webp",Jalan A Yani KM 3 (Depan PDAM)
+https://atcs.banjarmasinkota.go.id/stream/jalan_a_yani_km_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/jl_ujung_murung_1.webp",Jembatan PHB Sutoyo
+https://atcs.banjarmasinkota.go.id/stream/jl_ujung_murung_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_s_parman_tarakan.webp",Simpang S. Parman - Tarakan
+https://atcs.banjarmasinkota.go.id/stream/simpang_s_parman_tarakan/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_s_parman_belitung.webp",Simpang S. Parman - Belitung
+https://atcs.banjarmasinkota.go.id/stream/simpang_s_parman_belitung/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_a_yani_antasari_km_3.webp",Simpang A Yani - Antasari KM 3
+https://atcs.banjarmasinkota.go.id/stream/simpang_a_yani_antasari_km_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_kamboja.webp",Simpang Kamboja
+https://atcs.banjarmasinkota.go.id/stream/simpang_kamboja/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_s_parman_arah_tarakan.webp",Simpang S. Parman Arah Tarakan
+https://atcs.banjarmasinkota.go.id/stream/simpang_s_parman_arah_tarakan/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_jembatan_merdeka_mesjid_raya.webp",Simpang Jembatan Merdeka / Mesjid Raya
+https://atcs.banjarmasinkota.go.id/stream/simpang_jembatan_merdeka_mesjid_raya/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_mulawarman.webp",Simpang Mulawarman
+https://atcs.banjarmasinkota.go.id/stream/simpang_mulawarman/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_sultan_adam_sungai_andai.webp",Simpang Sultan Adam - Sungai Andai
+https://atcs.banjarmasinkota.go.id/stream/simpang_sultan_adam_sungai_andai/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/u_turn_jalan_s_parman_arah_luar_kota.webp",U-Turn Jalan S. Parman Arah Luar Kota
+https://atcs.banjarmasinkota.go.id/stream/u_turn_jalan_s_parman_arah_luar_kota/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_cemara.webp",Simpang Cemara
+https://atcs.banjarmasinkota.go.id/stream/simpang_cemara/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_kol_sugiono.webp",Simpang Kol. Sugiono
+https://atcs.banjarmasinkota.go.id/stream/simpang_kol_sugiono/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_antasari.webp",Simpang Antasari
+https://atcs.banjarmasinkota.go.id/stream/simpang_antasari/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_gerilya.webp",Simpang Gerilya
+https://atcs.banjarmasinkota.go.id/stream/simpang_gerilya/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_sutoyo_jafri_zam_zam.webp",Simpang Sutoyo / Jafri Zam Zam
+https://atcs.banjarmasinkota.go.id/stream/simpang_sutoyo_jafri_zam_zam/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_veteran_gatot.webp",Simpang Veteran - Gatot
+https://atcs.banjarmasinkota.go.id/stream/simpang_veteran_gatot/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_rk_ilir_teluk_tiram_darat.webp",Simpang RK Ilir / Teluk Tiram Darat
+https://atcs.banjarmasinkota.go.id/stream/simpang_rk_ilir_teluk_tiram_darat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/simpang_pasar_lama.webp",Simpang Pasar Lama
+https://atcs.banjarmasinkota.go.id/stream/simpang_pasar_lama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://atcs.banjarmasinkota.go.id/screenshot/u_turn_jalan_s_parman_arah_dalam_kota.webp",U-Turn Jalan S. Parman Arah Dalam Kota
+https://atcs.banjarmasinkota.go.id/stream/u_turn_jalan_s_parman_arah_dalam_kota/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-referrer=https://wms.klikhost.com:2000/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Local Channels",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1267801285.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://i.imgur.com/TA76a10.png",BanjarTV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
